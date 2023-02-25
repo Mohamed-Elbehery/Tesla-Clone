@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Tesla-Clone-React-App/static/css/main.0fa1851a.css",
-    "main.js": "/Tesla-Clone-React-App/static/js/main.f99b3766.js",
+    "main.js": "/Tesla-Clone-React-App/static/js/main.3f52a35b.js",
     "static/js/787.860837ff.chunk.js": "/Tesla-Clone-React-App/static/js/787.860837ff.chunk.js",
     "index.html": "/Tesla-Clone-React-App/index.html",
     "main.0fa1851a.css.map": "/Tesla-Clone-React-App/static/css/main.0fa1851a.css.map",
-    "main.f99b3766.js.map": "/Tesla-Clone-React-App/static/js/main.f99b3766.js.map",
+    "main.3f52a35b.js.map": "/Tesla-Clone-React-App/static/js/main.3f52a35b.js.map",
     "787.860837ff.chunk.js.map": "/Tesla-Clone-React-App/static/js/787.860837ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0fa1851a.css",
-    "static/js/main.f99b3766.js"
+    "static/js/main.3f52a35b.js"
   ]
 }
